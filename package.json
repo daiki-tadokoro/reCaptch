@@ -1,0 +1,16 @@
+{
+  "name": "recaptch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/daiki-tadokoro/reCaptch.git",
+  "author": "田所大樹 <tadokoro@crewinc.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daiki-tadokoro/reCaptch/issues"
+  },
+  "homepage": "https://github.com/daiki-tadokoro/reCaptch#readme"
+}
